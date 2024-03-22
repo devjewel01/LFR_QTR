@@ -4,4 +4,6 @@
 
 ![Price](https://github.com/devjewel01/LFR_QTR/blob/main/LFR_Document/BAIUST_LFR_Price.jpg)
 
+![LFR](https://github.com/devjewel01/LFR_QTR/blob/main/LFR_Document/LFR_Image.jpg)
+
 ![Certificate](https://github.com/devjewel01/LFR_QTR/blob/main/LFR_Document/BAIUST_LFR_Certificate.jpg)
